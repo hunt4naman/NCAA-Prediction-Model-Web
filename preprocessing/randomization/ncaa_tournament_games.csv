@@ -1,0 +1,68 @@
+round,teamA,TeamName_x,scoreA,teamB,TeamName_y,scoreB,winner
+Championship,1163,Connecticut,60,1246,Kentucky,54,A
+Final Four,1163,Connecticut,63,1196,Florida,53,A
+Final Four,1246,Kentucky,74,1458,Wisconsin,73,A
+Elite Eight,1163,Connecticut,60,1277,Michigan State,54,A
+Elite Eight,1246,Kentucky,75,1276,Michigan,72,A
+Elite Eight,1196,Florida,62,1173,Dayton,52,A
+Elite Eight,1458,Wisconsin,64,1112,Arizona,63,A
+Sweet Sixteen,1276,Michigan,73,1397,Tennessee,71,A
+Sweet Sixteen,1163,Connecticut,81,1235,Iowa State,76,A
+Sweet Sixteen,1246,Kentucky,74,1257,Louisville,69,A
+Sweet Sixteen,1277,Michigan State,61,1438,Virginia,59,A
+Sweet Sixteen,1173,Dayton,82,1390,Stanford,72,A
+Sweet Sixteen,1458,Wisconsin,69,1124,Baylor,52,A
+Sweet Sixteen,1196,Florida,79,1417,UCLA,68,A
+Sweet Sixteen,1112,Arizona,70,1361,San Diego State,64,A
+Round of 32,1390,Stanford,60,1242,Kansas,57,A
+Round of 32,1246,Kentucky,78,1455,Wichita State,76,A
+Round of 32,1235,Iowa State,85,1314,North Carolina,83,A
+Round of 32,1397,Tennessee,83,1273,Mercer,63,A
+Round of 32,1417,UCLA,77,1372,Stephen F Austin,60,A
+Round of 32,1124,Baylor,85,1166,Creighton,55,A
+Round of 32,1438,Virginia,78,1272,Memphis,60,A
+Round of 32,1112,Arizona,84,1211,Gonzaga,61,A
+Round of 32,1196,Florida,61,1338,Pittsburgh,45,A
+Round of 32,1257,Louisville,66,1387,Saint Louis,51,A
+Round of 32,1276,Michigan,79,1400,Texas,65,A
+Round of 32,1361,San Diego State,63,1295,North Dakota State,44,A
+Round of 32,1173,Dayton,55,1393,Syracuse,53,A
+Round of 32,1458,Wisconsin,85,1332,Oregon,77,A
+Round of 32,1277,Michigan State,80,1217,Harvard,73,A
+Round of 32,1163,Connecticut,77,1437,Villanova,65,A
+Round of 64,1273,Mercer,78,1181,Duke,71,A
+Round of 64,1124,Baylor,74,1304,Nebraska,60,A
+Round of 64,1390,Stanford,58,1307,New Mexico,53,A
+Round of 64,1112,Arizona,68,1451,Weber State,59,A
+Round of 64,1397,Tennessee,86,1269,Massachusetts,67,A
+Round of 64,1166,Creighton,76,1418,Louisiana Lafayette,66,A
+Round of 64,,Kansas,80,1184,Eastern Kentucky,69,A
+Round of 64,1211,Gonzaga,85,1329,Oklahoma State,77,A
+Round of 64,1272,Memphis,71,1203,George Washington,66,A
+Round of 64,1314,North Carolina,79,1344,Providence,77,A
+Round of 64,1455,Wichita State,64,1142,Cal Poly,37,A
+Round of 64,1372,Stephen F. Austin,77,1433,VCU,75,A
+Round of 64,1438,Virginia,70,1157,Coastal Carolina,59,A
+Round of 64,1246,Kentucky,56,1243,Kansas State,49,A
+Round of 64,1235,Iowa State,93,1300,North Carolina Central,75,A
+Round of 64,1417,UCLA,76,1409,Tulsa,59,A
+Round of 64,1173,Dayton,60,1326,Ohio State,59,A
+Round of 64,1458,Wisconsin,75,1110,America,35,A
+Round of 64,1338,Pittsburgh,77,1160,Colorado,48,A
+Round of 64,1217,Harvard,61,1153,Cincinnati,57,A
+Round of 64,1393,Syracuse,77,1444,Western Michigan,53,A
+Round of 64,1332,Oregon,87,1140,BYU,68,A
+Round of 64,1196,Florida,67,1107,Albany,55,A
+Round of 64,1277,Michigan State,93,1174,Delaware,78,A
+Round of 64,1163,Connecticut,89,1386,Saint Joseph's,81,A
+Round of 64,1276,Michigan,57,1459,Wofford,40,A
+Round of 64,1387,Saint Louis,83,1301,NC State,80,A
+Round of 64,1295,North Dakota State,80,1328,Oklahoma,75,A
+Round of 64,1400,Texas,87,1113,Arizona State,85,A
+Round of 64,1437,Villanova,73,1454,Milwaukee,53,A
+Round of 64,1257,Louisville,71,1264,Manhattan,64,A
+Round of 64,1361,San Diego State,73,1308,New Mexico State,69,A
+First Four,1142,Cal Poly,81,1411,Texas Southern,69,A
+First Four,1397,Tennessee,78,1234,Iowa,65,A
+First Four,1107,Albany,71,1291,Mount St. Mary's,64,A
+First Four,1301,NC State,74,1462,Xavier,59,A

@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+
+{% block nav %}
+    <li role="presentation" class="active"><a href="/home">Home</a></li>
+    <li role="presentation"><a href="/about">About</a></li>
+{% endblock %}
+
+{% block content %}
+
+    <form action="/" method="post" name="search">
+
+        <div align="center">
+            
+            <p>
+                Using data from the 2014 NCAA Division I Men's College Basketball Regular Season, this tool predicts the winner of a matchup between any two college basketball teams.
+            </p>
+            <br>
+            <p>
+                It was developed to serve as a decision support system for bettors betting in the 2014 NCAA Division I Men's College Basketball Tournament, as well as a system to support sportsbooks trying to determine the odds that they should offer.
+            </p> 
+            <br>
+            <p>
+                Instructions: Select any two teams from the drop-down menus, and click 'Predict!' to see our prediction.
+            </p>
+
+            <br>
+
+            <select name="team_A">
+                {% for t in team_list %}
+                    {% if team_id_A %}
+                    <option name = "{{t[0]}}" value="{{t[1]}}" selected>{{ t[0] }}</option>
+                    {% else %}
+                    <option name = "{{t[0]}}" value="{{t[1]}}">{{ t[0] }}</option>
+                    {% endif %}
+                {% endfor %}
+            </select>
+            
+            VS
+
+            <select name="team_B">
+                {% for t in team_list %}
+                    <option name = "{{t[0]}}" value = "{{t[1]}}">{{ t[0] }}</option>
+                {% endfor %}
+            </select>
+
+            <br><br>
+
+            <input class="btn btn-default" type="submit" value="Predict!">
+
+            <br><br>
+
+            {% if teams_in_matchup %}
+            We predict <mark><strong>{{ winner }}</strong></mark> will win over <mark>{{ loser }}</mark>, with a <mark>{{ winner_prob }}</mark> chance of winning.
+            {% endif %}
+
+            <br><br>
+
+        </div>
+    </form>
+
+{% endblock %}

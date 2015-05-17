@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="An interesting visualization of wikipedia for you to learn the most important items." itemprop="description">
+    <title>{{ title }} - NCAA Tournament Prediction</title>
+
+    <!-- Bootstrap -->
+    <link href="/static/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="/static/css/narrow.css" rel="stylesheet">
+    
+    <!-- Styles for force layout -->
+    <link type="text/css" href="/static/css/force.css" rel="stylesheet">
+
+</head>
+<body>
+
+
+<div class="container">
+    <div class="header">
+        <nav>
+            <ul class="nav nav-pills pull-right">
+                {% block nav %}
+                {% endblock %}
+            </ul>
+        </nav>
+        <h3 class="text-muted">2014 NCAA Tournament Prediction</h3>
+    </div>
+
+    <div>
+        {% block content %}
+        {% endblock %}
+    </div>
+
+    <div id="chart"></div>
+
+
+    <div class="footer">
+        <p>
+            <center>
+            By Amit Balia, Naman Jain, and Julian Sy.
+            <br>
+            Developed at Stevens Institute of Technology for <em>BIA 654: Statistical Learning</em>, taught by Dr. German Creamer.
+            </center>
+        </p>
+    </div>
+</div>
+
+
+<!-- use d3.js -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.11/d3.min.js"></script>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/static/js/bootstrap.min.js"></script>
+<div>
+<!-- d3.js -->
+{% block js %}{% endblock %}
+</div>
+
+</body>
+</html>

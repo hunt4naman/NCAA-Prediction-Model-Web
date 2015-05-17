@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block nav %}
+    <li role="presentation"><a href="/home">Home</a></li>
+    <li role="presentation" class="active"><a href="/about">About</a></li>
+{% endblock %}
+
+{% block content %}
+	<p>This prediction system is based entirely on data obtained throughout the 2014 NCAA Men's Baskeball regular season. It's designed to predict the 2014 NCAA Men's Basketball Tournament. Our data is comprised of box score data for every regular season game, and Ken Pomeroy's regular season team data.</p>
+
+	<p>Since the 2014 NCAA Tournament is over, this system's performance was tested with the actual results, and was able to predict games correctly 70% of the time.</p>
+
+    <p>This was developed by Amit Balia, Naman Jain, and Julian Sy at Stevens Institute of Technology for the Spring 2015 edition of <i>BIA 656: Statistical Learning</i>, taught by Professor German Creamer.</p>
+{% endblock %}

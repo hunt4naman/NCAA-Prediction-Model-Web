@@ -1,0 +1,68 @@
+,round,teamA,TeamName_x,scoreA,teamB,TeamName_y,scoreB,winner
+0,Championship,1246.0,Kentucky,54,1163.0,Connecticut,60,B
+1,Final Four,1163.0,Connecticut,63,1196.0,Florida,53,A
+2,Final Four,1246.0,Kentucky,74,1458.0,Wisconsin,73,A
+3,Elite Eight,1277.0,Michigan State,54,1163.0,Connecticut,60,B
+4,Elite Eight,1276.0,Michigan,72,1246.0,Kentucky,75,B
+5,Elite Eight,1196.0,Florida,62,1173.0,Dayton,52,A
+6,Elite Eight,1458.0,Wisconsin,64,1112.0,Arizona,63,A
+7,Sweet Sixteen,1276.0,Michigan,73,1397.0,Tennessee,71,A
+8,Sweet Sixteen,1235.0,Iowa State,76,1163.0,Connecticut,81,B
+9,Sweet Sixteen,1257.0,Louisville,69,1246.0,Kentucky,74,B
+10,Sweet Sixteen,1438.0,Virginia,59,1277.0,Michigan State,61,B
+11,Sweet Sixteen,1390.0,Stanford,72,1173.0,Dayton,82,B
+12,Sweet Sixteen,1124.0,Baylor,52,1458.0,Wisconsin,69,B
+13,Sweet Sixteen,1196.0,Florida,79,1417.0,UCLA,68,A
+14,Sweet Sixteen,1112.0,Arizona,70,1361.0,San Diego State,64,A
+15,Round of 32,1242.0,Kansas,57,1390.0,Stanford,60,B
+16,Round of 32,1246.0,Kentucky,78,1455.0,Wichita State,76,A
+17,Round of 32,1235.0,Iowa State,85,1314.0,North Carolina,83,A
+18,Round of 32,1397.0,Tennessee,83,1273.0,Mercer,63,A
+19,Round of 32,1417.0,UCLA,77,1372.0,Stephen F Austin,60,A
+20,Round of 32,1124.0,Baylor,85,1166.0,Creighton,55,A
+21,Round of 32,1272.0,Memphis,60,1438.0,Virginia,78,B
+22,Round of 32,1211.0,Gonzaga,61,1112.0,Arizona,84,B
+23,Round of 32,1338.0,Pittsburgh,45,1196.0,Florida,61,B
+24,Round of 32,1257.0,Louisville,66,1387.0,Saint Louis,51,A
+25,Round of 32,1400.0,Texas,65,1276.0,Michigan,79,B
+26,Round of 32,1295.0,North Dakota State,44,1361.0,San Diego State,63,B
+27,Round of 32,1393.0,Syracuse,53,1173.0,Dayton,55,B
+28,Round of 32,1332.0,Oregon,77,1458.0,Wisconsin,85,B
+29,Round of 32,1277.0,Michigan State,80,1217.0,Harvard,73,A
+30,Round of 32,1163.0,Connecticut,77,1437.0,Villanova,65,A
+31,Round of 64,1273.0,Mercer,78,1181.0,Duke,71,A
+32,Round of 64,1124.0,Baylor,74,1304.0,Nebraska,60,A
+33,Round of 64,1307.0,New Mexico,53,1390.0,Stanford,58,B
+34,Round of 64,1112.0,Arizona,68,1451.0,Weber State,59,A
+35,Round of 64,1397.0,Tennessee,86,1269.0,Massachusetts,67,A
+36,Round of 64,1418.0,Louisiana Lafayette,66,1166.0,Creighton,76,B
+37,Round of 64,1184.0,Eastern Kentucky,69,,Kansas,80,B
+38,Round of 64,1329.0,Oklahoma State,77,1211.0,Gonzaga,85,B
+39,Round of 64,1272.0,Memphis,71,1203.0,George Washington,66,A
+40,Round of 64,1344.0,Providence,77,1314.0,North Carolina,79,B
+41,Round of 64,1455.0,Wichita State,64,1142.0,Cal Poly,37,A
+42,Round of 64,1372.0,Stephen F. Austin,77,1433.0,VCU,75,A
+43,Round of 64,1438.0,Virginia,70,1157.0,Coastal Carolina,59,A
+44,Round of 64,1243.0,Kansas State,49,1246.0,Kentucky,56,B
+45,Round of 64,1235.0,Iowa State,93,1300.0,North Carolina Central,75,A
+46,Round of 64,1417.0,UCLA,76,1409.0,Tulsa,59,A
+47,Round of 64,1326.0,Ohio State,59,1173.0,Dayton,60,B
+48,Round of 64,1458.0,Wisconsin,75,1110.0,America,35,A
+49,Round of 64,1338.0,Pittsburgh,77,1160.0,Colorado,48,A
+50,Round of 64,1153.0,Cincinnati,57,1217.0,Harvard,61,B
+51,Round of 64,1393.0,Syracuse,77,1444.0,Western Michigan,53,A
+52,Round of 64,1332.0,Oregon,87,1140.0,BYU,68,A
+53,Round of 64,1196.0,Florida,67,1107.0,Albany,55,A
+54,Round of 64,1277.0,Michigan State,93,1174.0,Delaware,78,A
+55,Round of 64,1386.0,Saint Joseph's,81,1163.0,Connecticut,89,B
+56,Round of 64,1276.0,Michigan,57,1459.0,Wofford,40,A
+57,Round of 64,1301.0,NC State,80,1387.0,Saint Louis,83,B
+58,Round of 64,1295.0,North Dakota State,80,1328.0,Oklahoma,75,A
+59,Round of 64,1113.0,Arizona State,85,1400.0,Texas,87,B
+60,Round of 64,1454.0,Milwaukee,53,1437.0,Villanova,73,B
+61,Round of 64,1257.0,Louisville,71,1264.0,Manhattan,64,A
+62,Round of 64,1308.0,New Mexico State,69,1361.0,San Diego State,73,B
+63,First Four,1142.0,Cal Poly,81,1411.0,Texas Southern,69,A
+64,First Four,1234.0,Iowa,65,1397.0,Tennessee,78,B
+65,First Four,1107.0,Albany,71,1291.0,Mount St. Mary's,64,A
+66,First Four,1462.0,Xavier,59,1301.0,NC State,74,B
